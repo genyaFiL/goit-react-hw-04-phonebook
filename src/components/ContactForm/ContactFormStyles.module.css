@@ -1,0 +1,10 @@
+.form_contacts {
+  border-style: solid;
+  padding: 20px;
+  width: 300px;
+}
+
+.form_input {
+  display: block;
+  margin-bottom: 20px;
+}
